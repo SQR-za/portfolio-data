@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Lost & Found Management System",
+    "description": "A DBMS project for managing lost and found items.",
+    "link": "https://github.com/saqer/lost-found"
+  },
+  {
+    "id": 2,
+    "title": "n8n Islamic Automation",
+    "description": "Automating Islamic content workflows using n8n.",
+    "link": "https://github.com/saqer/n8n-automation"
+  },
+  {
+    "id": 3,
+    "title": "Cybersecurity Learning Roadmap",
+    "description": "My personal roadmap to becoming a professional hacker.",
+    "link": "https://github.com/saqer/cybersecurity-roadmap"
+  }
+]
