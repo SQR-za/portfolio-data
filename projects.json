@@ -2,8 +2,25 @@
   {
     "id": 1,
     "title": "Lost & Found Management System",
-    "description": "A DBMS project for managing lost and found items.",
-    "link": "https://github.com/saqer/lost-found"
+    "description": "A database-driven system to efficiently manage lost and found items, track claims, and streamline operations.",
+    "team": [
+      { "name": "Saqer Abdulaziz Alzahrani", "id": "2243125" },
+      { "name": "Abdulaziz Turki Alasbali", "id": "2340800" },
+      { "name": "Abdulrahman Saleh Alshareef", "id": "2340871" },
+      { "name": "Abdullah Humaid AlMaghribi", "id": "2340583" }
+    ],
+    "features": [
+      "Database design with 6 normalized tables (Item, Finder, Owner, Location, Staff, Claim)",
+      "Stored procedures for item retrieval and claim status updates",
+      "SQL queries for tracking item status and claims",
+      "Sample data for testing (finders, owners, locations, staff, items, claims)"
+    ],
+    "technologies": ["Oracle SQL", "PL/SQL", "Database Normalization"],
+    "images": [
+      "https://via.placeholder.com/400x300?text=ER+Diagram",
+      "https://via.placeholder.com/400x300?text=Database+Schema"
+    ],
+    "link": "https://github.com/SQR-za/lost-found-system"
   },
   {
     "id": 2,
